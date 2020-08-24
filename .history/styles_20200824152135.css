@@ -1,0 +1,11 @@
+@media (max-width: 380px) {
+  nav {
+    display: block !important;
+  }
+  .nav-left {
+    text-align: center !important;
+  }
+  .nav-right {
+    text-align: center;
+  }
+}

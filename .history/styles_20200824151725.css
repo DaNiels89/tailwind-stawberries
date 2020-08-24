@@ -1,0 +1,6 @@
+@media (max-width: 380px) {
+  nav {
+    display: block;
+    text-align: right;
+  }
+}

@@ -1,0 +1,12 @@
+@media (max-width: 380px) {
+  nav {
+    display: block !important;
+  }
+  .nav-left {
+    display: flex;
+    margin: 0 auto;
+  }
+  .nav-right {
+    text-align: center;
+  }
+}
